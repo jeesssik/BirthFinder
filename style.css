@@ -1,0 +1,17 @@
+body{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+input{
+	margin-top: 14%;
+	margin-bottom: 3%;
+	}
+#valores{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
